@@ -57,9 +57,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Scar1109&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Shashin2000&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Scar1109&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashin2000&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
@@ -79,6 +79,19 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/SHASHIN"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SHASHIN" /></a></p><br><br>
+
+<div>
+	<p align="center">
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center></p>
+</div>
+
+<!-- ## 📚 &nbsp;My Projects -->
+
+
+------
+Credits: [shashin2000](https://github.com/shashin2000)
+
+Last Edited on: 29/06/2025
 
 <!-- Signal -->
 <p align="right">
