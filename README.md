@@ -35,14 +35,7 @@
 	<a href="https://www.linkedin.com/in/shashin-pramodaya-3a8b10159/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/shashin pramodaya"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/shashin pramodaya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/c/cheewara arana"><img src="https://img.shields.io/youtube/channel/subscribers/:channelId?style=plastic&logo=youtube&logoColor=red" alt="youtube"/></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"
-<a href="https://linkedin.com/in/shashin-pramodaya-3a8b10159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashin-pramodaya-3a8b10159" height="30" width="40" /></a>
-<a href="https://fb.com/shashin pramodaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashin pramodaya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cheewara arana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cheewara arana" height="30" width="40" /></a>
+	<a href="https://www.youtube.com/cheewaraarana"><img src="https://img.shields.io/youtube/channel/subscribers/:channelId?style=plastic&logo=youtube&logoColor=red" alt="youtube"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
