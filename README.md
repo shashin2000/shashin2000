@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashin Pramodaya</h1>
+<h1 align="center">Hi 👋, I'm Shashin Pramodaya<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -28,6 +28,7 @@
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+ <em><b>I love connecting with different people,</b> so if you want to say <b>hi, I'd be delighted to meet you!</b>😃</em><br>
 <p align="center">
 	<a href="shashin2000314@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/shashin2000"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -48,3 +49,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SHASHIN"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SHASHIN" /></a><a href="https://ko-fi.com/SHASHIN"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SHASHIN" /></a></p><br><br>
+
+<!-- Signal -->
+<p align="right">
+  <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
+  <br>
+  <em>shash</em>
+</p>
