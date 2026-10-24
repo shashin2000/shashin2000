@@ -1,11 +1,13 @@
 <div align="center">
+  <!-- Dynamic Header Banner (same image, ?raw=true added so it actually loads) -->
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png?raw=true" width="100%">
 
-  <!-- Animated waving banner (waves move + text twinkles) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=SHASHIN%20PRAMODAYA&fontColor=00D1FF&fontSize=48&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Signal%20Corps%20Veteran&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+  <!-- NEW: Animated waving banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&text=SHASHIN%20PRAMODAYA&fontColor=00D1FF&fontSize=38&fontAlignY=40&animation=twinkling" width="100%" />
 
   <!-- Typing Effect for Roles -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=SYSTEM.INIT(SHASHIN_PRAMODAYA);FULL-STACK+DEVELOPER;IT+INTERN+@+GRI_LANKA;SIGNAL+CORPS+VETERAN;SOLUTIONS+ARCHITECT+IN+PROGRESS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=SYSTEM.INIT(SHASHIN_PRAMODAYA);FULL-STACK+DEVELOPER;IT+INTERN+@+GRI_LANKA;SIGNAL+CORPS+VETERAN;SOLUTIONS+ARCHITECT+IN+PROGRESS" alt="Typing SVG" />
   </p>
 
   <!-- Visitor Counter & Status Badges -->
@@ -13,10 +15,13 @@
     <img src="https://komarev.com/ghpvc/?username=shashin2000&label=TERMINAL+HITS&color=00D1FF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-AI_&_Automation-blueviolet?style=for-the-badge" />
+    <!-- NEW badges -->
+    <img src="https://img.shields.io/badge/Open_to-Opportunities-00D1FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Based_in-Sri_Lanka_🇱🇰-0D1117?style=for-the-badge" />
   </p>
 </div>
 
-<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="100%" height="6" />
+---
 
 ## 🛰️ COMMAND CENTER: CORE PROFILE
 
@@ -48,13 +53,15 @@
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="100%" height="6" />
+---
 
 ## 🖥️ LIVE TERMINAL
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=120&lines=%24+whoami;%3E+shashin_pramodaya+%7C+developer+%7C+veteran;%24+cat+current_mission.txt;%3E+Real-time+dashboards+%2B+AI+automation;%24+status+--check;%3E+MISSION+STATUS%3A+OPERATIONAL+%E2%9C%85" alt="terminal" />
 </div>
+
+---
 
 ## 🛠️ THE ARSENAL (TECH STACK)
 
@@ -67,13 +74,19 @@
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,php,py,mysql,mssql,firebase&theme=dark" /></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,n8n,netlify,vscode&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=php,py,mysql,mssql,firebase,nodejs&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,n8n,netlify,vscode,clickup&theme=dark" /></td>
     </tr>
   </table>
+
+  <!-- NEW: extra tool badges -->
+  <br>
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-4A4A4A?style=for-the-badge&logo=webhooks&logoColor=white" />
 </div>
 
-<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="100%" height="6" />
+---
 
 ## 📂 FEATURED PROJECTS
 
@@ -106,7 +119,7 @@
   </table>
 </div>
 
-<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="100%" height="6" />
+---
 
 ## 📊 SYSTEM TELEMETRY (ANALYTICS)
 
@@ -114,21 +127,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shashin2000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashin2000&theme=tokyonight&layout=compact&hide_border=true" width="40%" />
   <br>
+  <!-- NEW: streak stats -->
   <img src="https://streak-stats.demolab.com?user=shashin2000&theme=tokyonight&hide_border=true" width="70%" />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashin2000&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashin2000&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" />
 </div>
 
 <!--
-🐍 OPTIONAL: Snake animation. Uncomment ONLY after you add the snake.yml workflow
-and it has run once (otherwise the image shows as broken).
+NEW (optional): Snake animation. Uncomment ONLY after you add the snake.yml
+workflow and it has run once, otherwise the image will look broken.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/shashin2000/shashin2000/output/github-snake-dark.svg" width="100%" />
 </div>
 -->
 
-<img src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif" width="100%" height="6" />
+---
 
 ## 📡 CONNECT WITH SIGNAL CORPS
 
@@ -146,6 +160,8 @@ and it has run once (otherwise the image shows as broken).
   </a>
 </div>
 
+---
+
 <!-- Contribution Map -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashin2000&theme=tokyonight" width="100%">
@@ -157,4 +173,5 @@ and it has run once (otherwise the image shows as broken).
   <i>Mission Status: <b>OPERATIONAL</b> | Logged by <b>shashin</b></i>
 </p>
 
+<!-- NEW: animated footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,20,12&section=footer" width="100%" />
