@@ -1,9 +1,6 @@
 <div align="center">
-  <!-- Dynamic Header Banner (same image, ?raw=true added so it actually loads) -->
-  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png?raw=true" width="100%">
-
-  <!-- NEW: Animated waving banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&text=SHASHIN%20PRAMODAYA&fontColor=00D1FF&fontSize=38&fontAlignY=40&animation=twinkling" width="100%" />
+  <!-- Dynamic Header Banner -->
+  <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" width="100%">
 
   <!-- Typing Effect for Roles -->
   <p align="center">
@@ -15,9 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=shashin2000&label=TERMINAL+HITS&color=00D1FF&style=for-the-badge" />
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Focus-AI_&_Automation-blueviolet?style=for-the-badge" />
-    <!-- NEW badges -->
-    <img src="https://img.shields.io/badge/Open_to-Opportunities-00D1FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Based_in-Sri_Lanka_🇱🇰-0D1117?style=for-the-badge" />
   </p>
 </div>
 
@@ -40,11 +34,6 @@
 - 🛒 Scaling the **GearPit** E-commerce platform.
 - 🤖 Automating workflows using **n8n** and **Gemini AI**.
 
-### 🌱 LEARNING NEXT
-- ☁️ Cloud basics (AWS / Azure)
-- 🐳 Docker & CI/CD
-- 🧠 LLM agents & RAG
-
 </td>
 <td width="45%" align="center">
   <!-- Professional Floating Animation -->
@@ -52,14 +41,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🖥️ LIVE TERMINAL
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=120&lines=%24+whoami;%3E+shashin_pramodaya+%7C+developer+%7C+veteran;%24+cat+current_mission.txt;%3E+Real-time+dashboards+%2B+AI+automation;%24+status+--check;%3E+MISSION+STATUS%3A+OPERATIONAL+%E2%9C%85" alt="terminal" />
-</div>
 
 ---
 
@@ -74,16 +55,10 @@
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" /></td>
-      <td><img src="https://skillicons.dev/icons?i=php,py,mysql,mssql,firebase,nodejs&theme=dark" /></td>
+      <td><img src="https://skillicons.dev/icons?i=php,py,mysql,mssql,firebase&theme=dark" /></td>
       <td><img src="https://skillicons.dev/icons?i=git,github,n8n,netlify,vscode,clickup&theme=dark" /></td>
     </tr>
   </table>
-
-  <!-- NEW: extra tool badges -->
-  <br>
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webhooks-4A4A4A?style=for-the-badge&logo=webhooks&logoColor=white" />
 </div>
 
 ---
@@ -127,20 +102,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shashin2000&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashin2000&theme=tokyonight&layout=compact&hide_border=true" width="40%" />
   <br>
-  <!-- NEW: streak stats -->
-  <img src="https://streak-stats.demolab.com?user=shashin2000&theme=tokyonight&hide_border=true" width="70%" />
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashin2000&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" />
 </div>
-
-<!--
-NEW (optional): Snake animation. Uncomment ONLY after you add the snake.yml
-workflow and it has run once, otherwise the image will look broken.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/shashin2000/shashin2000/output/github-snake-dark.svg" width="100%" />
-</div>
--->
 
 ---
 
@@ -172,6 +135,3 @@ workflow and it has run once, otherwise the image will look broken.
   <br>
   <i>Mission Status: <b>OPERATIONAL</b> | Logged by <b>shashin</b></i>
 </p>
-
-<!-- NEW: animated footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,20,12&section=footer" width="100%" />
